@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Eenie Meanie" tvg-language="Turkish" tvg-country="TR" tvg-id="EENIE_MEANIE" tvg-logo="https://dizifun5.com/images/data/2025_eenie-meanie.webp" group-title="Filmler",Eenie Meanie
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/11q7h69slsdngtd1lvhr/master.m3u8
+#EXTINF:-1 tvg-name="Ayakçı" tvg-language="Turkish" tvg-country="TR" tvg-id="AYAKCI" tvg-logo="https://dizifun5.com/images/data/2025_ayakci.webp" group-title="Filmler",Ayakçı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/mfhk75s222z53shfgwz4/master.m3u8
+#EXTINF:-1 tvg-name="Paris Hatıraları" tvg-language="Turkish" tvg-country="TR" tvg-id="PARIS_HATIRALARI" tvg-logo="https://dizifun5.com/images/data/2022_paris-hatiralari.webp" group-title="Filmler",Paris Hatıraları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/v3svycm2lz6vfxx8gn66/master.m3u8
+#EXTINF:-1 tvg-name="Ninni" tvg-language="Turkish" tvg-country="TR" tvg-id="NINNI" tvg-logo="https://dizifun5.com/images/data/2022_ninni.webp" group-title="Filmler",Ninni
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/uehz6ruqnc6fyjj7iod4/master.m3u8
+#EXTINF:-1 tvg-name="Çikolata" tvg-language="Turkish" tvg-country="TR" tvg-id="CIKOLATA" tvg-logo="https://dizifun5.com/images/data/2000_cikolata.webp" group-title="Filmler",Çikolata
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/9gqnvcvchy7681ioj521/master.m3u8
+#EXTINF:-1 tvg-name="Hayırlı Evlat" tvg-language="Turkish" tvg-country="TR" tvg-id="HAYIRLI_EVLAT" tvg-logo="https://dizifun5.com/images/data/2024_hayirli-evlat.webp" group-title="Filmler",Hayırlı Evlat
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/3qkrrafg1gexcogx6ibb/master.m3u8
+#EXTINF:-1 tvg-name="Büyük Macera 3: Çılgın Dostlar" tvg-language="Turkish" tvg-country="TR" tvg-id="BUYUK_MACERA_3_CILGIN_DOSTLAR" tvg-logo="https://dizifun5.com/images/data/2024_buyuk-macera-3-cilgin-dostlar.webp" group-title="Filmler",Büyük Macera 3: Çılgın Dostlar
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/hxuz45fqipatwqmd2hpv/master.m3u8
+#EXTINF:-1 tvg-name="Büyük Macera 2: Sürpriz Misafir" tvg-language="Turkish" tvg-country="TR" tvg-id="BUYUK_MACERA_2_SURPRIZ_MISAFIR" tvg-logo="https://dizifun5.com/images/data/2022_buyuk-macera-2-surpriz-misafir.webp" group-title="Filmler",Büyük Macera 2: Sürpriz Misafir
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/85zv6te29v7g86icq86z/master.m3u8
+#EXTINF:-1 tvg-name="Büyük Macera" tvg-language="Turkish" tvg-country="TR" tvg-id="BUYUK_MACERA" tvg-logo="https://dizifun5.com/images/data/2019_buyuk-macera.webp" group-title="Filmler",Büyük Macera
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/y7hrsmhs9ecuvlilhgpe/master.m3u8
+#EXTINF:-1 tvg-name="Yanlış Anlama 2" tvg-language="Turkish" tvg-country="TR" tvg-id="YANLIS_ANLAMA_2" tvg-logo="https://dizifun5.com/images/data/2022_yanlis-anlama-2.webp" group-title="Filmler",Yanlış Anlama 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/u4b9assxhxymlbe1pkkm/master.m3u8
+#EXTINF:-1 tvg-name="Opus" tvg-language="Turkish" tvg-country="TR" tvg-id="OPUS" tvg-logo="https://dizifun5.com/images/data/2025_opus.webp" group-title="Filmler",Opus
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/zo57rq9bg6py9l8spn4d/master.m3u8
+#EXTINF:-1 tvg-name="Yankılar" tvg-language="Turkish" tvg-country="TR" tvg-id="YANKILAR" tvg-logo="https://dizifun5.com/images/data/2014_yankilar.webp" group-title="Filmler",Yankılar
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/xf146rvg5lx7d53mzvsa/master.m3u8
+#EXTINF:-1 tvg-name="Cennet" tvg-language="Turkish" tvg-country="TR" tvg-id="CENNET" tvg-logo="https://dizifun5.com/images/data/2002_cennet.webp" group-title="Filmler",Cennet
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/87s3sobscshx3eznb1bt/master.m3u8
+#EXTINF:-1 tvg-name="Yanlış Anlama" tvg-language="Turkish" tvg-country="TR" tvg-id="YANLIS_ANLAMA" tvg-logo="https://dizifun5.com/images/data/2017_yanlis-anlama.webp" group-title="Filmler",Yanlış Anlama
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/xme9kg2f1lwl6fnsf6o1/master.m3u8
+#EXTINF:-1 tvg-name="Robot Sevgilim" tvg-language="Turkish" tvg-country="TR" tvg-id="ROBOT_SEVGILIM" tvg-logo="https://dizifun5.com/images/data/2014_robot-sevgilim.webp" group-title="Filmler",Robot Sevgilim
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/vm7y56udgznll2lwjwf1/master.m3u8
+#EXTINF:-1 tvg-name="Fidan" tvg-language="Turkish" tvg-country="TR" tvg-id="FIDAN" tvg-logo="https://dizifun5.com/images/data/2025_fidan.webp" group-title="Filmler",Fidan
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/rtzgrgjum7i3qp28lv42/master.m3u8
+#EXTINF:-1 tvg-name="Bifo & CMYLMZ" tvg-language="Turkish" tvg-country="TR" tvg-id="BIFO_CMYLMZ" tvg-logo="https://dizifun5.com/images/data/2011_bifo-cmylmz.webp" group-title="Filmler",Bifo & CMYLMZ
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/i5nadfegz581hzdeqe44/master.m3u8
+#EXTINF:-1 tvg-name="Hayalet" tvg-language="Turkish" tvg-country="TR" tvg-id="HAYALET" tvg-logo="https://dizifun5.com/images/data/1990_hayalet.webp" group-title="Filmler",Hayalet
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/8kt47ybcs4wtshbpjqdk/master.m3u8
+#EXTINF:-1 tvg-name="Kırılma" tvg-language="Turkish" tvg-country="TR" tvg-id="KIRILMA" tvg-logo="https://dizifun5.com/images/data/2016_kirilma.webp" group-title="Filmler",Kırılma
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/abwjm8ec2ebsovwktpw1/master.m3u8
+#EXTINF:-1 tvg-name="Tatlı Bela ile Flört" tvg-language="Turkish" tvg-country="TR" tvg-id="TATLI_BELA_ILE_FLORT" tvg-logo="https://dizifun5.com/images/data/1996_tatli-bela-ile-flort.webp" group-title="Filmler",Tatlı Bela ile Flört
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/1ft36t6897sg9t8ikpro/master.m3u8
+#EXTINF:-1 tvg-name="Sevgi Sözcükleri" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVGI_SOZCUKLERI" tvg-logo="https://dizifun5.com/images/data/1983_sevgi-sozcukleri.webp" group-title="Filmler",Sevgi Sözcükleri
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/3yfu6ntnr8y8exqnpeyi/master.m3u8
+#EXTINF:-1 tvg-name="Siyah Kanarya" tvg-language="Turkish" tvg-country="TR" tvg-id="SIYAH_KANARYA" tvg-logo="https://dizifun5.com/images/data/2024_siyah-kanarya.webp" group-title="Filmler",Siyah Kanarya
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/ba74riut1lao9rw3vktj/master.m3u8
+#EXTINF:-1 tvg-name="Lee" tvg-language="Turkish" tvg-country="TR" tvg-id="LEE" tvg-logo="https://dizifun5.com/images/data/2024_lee.webp" group-title="Filmler",Lee
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ms5iyruja51wox6dukuz/master.m3u8
+#EXTINF:-1 tvg-name="Galaksi Savaşçıları" tvg-language="Turkish" tvg-country="TR" tvg-id="GALAKSI_SAVASCILARI" tvg-logo="https://dizifun5.com/images/data/1999_galaksi-savascilari.webp" group-title="Filmler",Galaksi Savaşçıları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/e4jfc4wex2gv6wy9y62u/master.m3u8
+#EXTINF:-1 tvg-name="Genç Kızlar Uyanın" tvg-language="Turkish" tvg-country="TR" tvg-id="GENC_KIZLAR_UYANIN" tvg-logo="https://dizifun5.com/images/data/1969_genc-kizlar-uyanin.webp" group-title="Filmler",Genç Kızlar Uyanın
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/y556ifjobjf66ts9dj2v/master.m3u8
+#EXTINF:-1 tvg-name="Özgürlük Yolu" tvg-language="Turkish" tvg-country="TR" tvg-id="OZGURLUK_YOLU" tvg-logo="https://dizifun5.com/images/data/2007_ozgurluk-yolu.webp" group-title="Filmler",Özgürlük Yolu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/upfe9nirusakafy6fq8b/master.m3u8
+#EXTINF:-1 tvg-name="İlk Mayıs" tvg-language="Turkish" tvg-country="TR" tvg-id="ILK_MAYIS" tvg-logo="https://dizifun5.com/images/data/1999_ilk-mayis.webp" group-title="Filmler",İlk Mayıs
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qxj4ptx1q74fb1at7haf/master.m3u8
+#EXTINF:-1 tvg-name="Örümceğin Maskesi" tvg-language="Turkish" tvg-country="TR" tvg-id="ORUMCEGIN_MASKESI" tvg-logo="https://dizifun5.com/images/data/2001_orumcegin-maskesi.webp" group-title="Filmler",Örümceğin Maskesi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1pihhkdk58m2dgvvvird/master.m3u8
+#EXTINF:-1 tvg-name="Bizans Oyunları" tvg-language="Turkish" tvg-country="TR" tvg-id="BIZANS_OYUNLARI" tvg-logo="https://dizifun5.com/images/data/2016_bizans-oyunlari.webp" group-title="Filmler",Bizans Oyunları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2zuigb7foussv3k2v7xh/master.m3u8
+#EXTINF:-1 tvg-name="Komiser Zende" tvg-language="Turkish" tvg-country="TR" tvg-id="KOMISER_ZENDE" tvg-logo="https://dizifun5.com/images/data/2025_komiser-zende.webp" group-title="Filmler",Komiser Zende
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/c4n1jq8isaz5kfd4k81m/master.m3u8
+#EXTINF:-1 tvg-name="Yarının Savaşı" tvg-language="Turkish" tvg-country="TR" tvg-id="YARININ_SAVASI" tvg-logo="https://dizifun5.com/images/data/2021_yarinin-savasi.webp" group-title="Filmler",Yarının Savaşı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xss3fmrytuvn4yw4c6lw/master.m3u8
+#EXTINF:-1 tvg-name="Super 8" tvg-language="Turkish" tvg-country="TR" tvg-id="SUPER_8" tvg-logo="https://dizifun5.com/images/data/2011_super-8.webp" group-title="Filmler",Super 8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xtm8u36kf1375usbuwac/master.m3u8
+#EXTINF:-1 tvg-name="Kısa Devre" tvg-language="Turkish" tvg-country="TR" tvg-id="KISA_DEVRE" tvg-logo="https://dizifun5.com/images/data/1986_kisa-devre.webp" group-title="Filmler",Kısa Devre
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9dmqhgz3potlr1oc4isg/master.m3u8
+#EXTINF:-1 tvg-name="Buz Yolu" tvg-language="Turkish" tvg-country="TR" tvg-id="BUZ_YOLU" tvg-logo="https://dizifun5.com/images/data/2021_buz-yolu.webp" group-title="Filmler",Buz Yolu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jgq8p86kja4j2bhbhbr8/master.m3u8
+#EXTINF:-1 tvg-name="Elio" tvg-language="Turkish" tvg-country="TR" tvg-id="ELIO" tvg-logo="https://dizifun5.com/images/data/2025_elio.webp" group-title="Filmler",Elio
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cetuf6z2idm61s4uywji/master.m3u8
+#EXTINF:-1 tvg-name="Aktarıcı" tvg-language="Turkish" tvg-country="TR" tvg-id="AKTARICI" tvg-logo="https://dizifun5.com/images/data/1982_aktarici.webp" group-title="Filmler",Aktarıcı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1zq9sqk45egbsy1gnr7i/master.m3u8
+#EXTINF:-1 tvg-name="Otel Plaza'da Bir Oda" tvg-language="Turkish" tvg-country="TR" tvg-id="OTEL_PLAZADA_BIR_ODA" tvg-logo="https://dizifun5.com/images/data/1971_otel-plazada-bir-oda.webp" group-title="Filmler",Otel Plaza'da Bir Oda
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/i9isumzel651ik3ae18w/master.m3u8
+#EXTINF:-1 tvg-name="Bana Sevdiğini Söyle" tvg-language="Turkish" tvg-country="TR" tvg-id="BANA_SEVDIGINI_SOYLE" tvg-logo="https://dizifun5.com/images/data/1969_bana-sevdigini-soyle.webp" group-title="Filmler",Bana Sevdiğini Söyle
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/nmqnm6pyy4n3qv8lrhx3/master.m3u8
+#EXTINF:-1 tvg-name="Sonsuz Aşk" tvg-language="Turkish" tvg-country="TR" tvg-id="SONSUZ_ASK" tvg-logo="https://dizifun5.com/images/data/1958_sonsuz-ask.webp" group-title="Filmler",Sonsuz Aşk
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/75axa17asgpf1h3tjha4/master.m3u8
+#EXTINF:-1 tvg-name="Geçmişin Gölgeleri" tvg-language="Turkish" tvg-country="TR" tvg-id="GECMISIN_GOLGELERI" tvg-logo="https://dizifun5.com/images/data/2000_gecmisin-golgeleri.webp" group-title="Filmler",Geçmişin Gölgeleri
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/yaf3tbrpe2o1y3wy61ss/master.m3u8
+#EXTINF:-1 tvg-name="İlk Şovalye" tvg-language="Turkish" tvg-country="TR" tvg-id="ILK_SOVALYE" tvg-logo="https://dizifun5.com/images/data/1995_ilk-sovalye.webp" group-title="Filmler",İlk Şovalye
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1rwcce96qsid8gynv2dq/master.m3u8
+#EXTINF:-1 tvg-name="Aydede" tvg-language="Turkish" tvg-country="TR" tvg-id="AYDEDE" tvg-logo="https://dizifun5.com/images/data/2018_aydede.webp" group-title="Filmler",Aydede
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/e1ek6jtn51mpebbslnee/master.m3u8
+#EXTINF:-1 tvg-name="Ghostlight" tvg-language="Turkish" tvg-country="TR" tvg-id="GHOSTLIGHT" tvg-logo="https://dizifun5.com/images/data/2024_ghostlight.webp" group-title="Filmler",Ghostlight
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/hin8qnkveojchz97lprr/master.m3u8
 #EXTINF:-1 tvg-name="Mükemmel Aile" tvg-language="Turkish" tvg-country="TR" tvg-id="MUKEMMEL_AILE" tvg-logo="https://dizifun5.com/images/data/2024_mukemmel-aile.webp" group-title="Filmler",Mükemmel Aile
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2zam4rs2au3cexg5p3sb/master.m3u8
 #EXTINF:-1 tvg-name="Kurtuluş Ayini" tvg-language="Turkish" tvg-country="TR" tvg-id="KURTULUS_AYINI" tvg-logo="https://dizifun5.com/images/data/2020_kurtulus-ayini.webp" group-title="Filmler",Kurtuluş Ayini
@@ -315,8 +401,8 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2b2eapcqot7tmtr7hhgm/master.m3u8
 #EXTINF:-1 tvg-name="Asrın Elmas Soygunu" tvg-language="Turkish" tvg-country="TR" tvg-id="ASRIN_ELMAS_SOYGUNU" tvg-logo="https://dizifun5.com/images/data/2025_asrin-elmas-soygunu.webp" group-title="Filmler",Asrın Elmas Soygunu
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5on4jvvtbfa56l99xwux/master.m3u8
-#EXTINF:-1 tvg-name="Buffalo Kids" tvg-language="Turkish" tvg-country="TR" tvg-id="BUFFALO_KIDS" tvg-logo="https://dizifun5.com/images/data/2024_buffalo-kids.webp" group-title="Filmler",Buffalo Kids
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/vq7ii2ic5yi93z7jcrg7/master.m3u8
+#EXTINF:-1 tvg-name="Kovboy Çocuklar" tvg-language="Turkish" tvg-country="TR" tvg-id="KOVBOY_COCUKLAR" tvg-logo="https://dizifun5.com/images/data/2024_buffalo-kids.webp" group-title="Filmler",Kovboy Çocuklar
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/yscdk8kv1kruxdbujd9h/master.m3u8
 #EXTINF:-1 tvg-name="Kneecap" tvg-language="Turkish" tvg-country="TR" tvg-id="KNEECAP" tvg-logo="https://dizifun5.com/images/data/2024_kneecap.webp" group-title="Filmler",Kneecap
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3n8duodvo35qq2z2n4rf/master.m3u8
 #EXTINF:-1 tvg-name="Sally" tvg-language="Turkish" tvg-country="TR" tvg-id="SALLY" tvg-logo="https://dizifun5.com/images/data/2025_sally.webp" group-title="Filmler",Sally
@@ -783,8 +869,8 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/s2kec799rnt9xp4659ey/master.m3u8
 #EXTINF:-1 tvg-name="Mine" tvg-language="Turkish" tvg-country="TR" tvg-id="MINE" tvg-logo="https://dizifun5.com/images/data/1982_mine.webp" group-title="Filmler",Mine
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fblgnm5uqdz4vzux2c21/master.m3u8
-#EXTINF:-1 tvg-name="Ice Road: Vengeance" tvg-language="Turkish" tvg-country="TR" tvg-id="ICE_ROAD_VENGEANCE" tvg-logo="https://dizifun5.com/images/data/2025_ice-road-vengeance.webp" group-title="Filmler",Ice Road: Vengeance
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zdhogn8hnvhujvfkrujq/master.m3u8
+#EXTINF:-1 tvg-name="Buz Yolu: İntikam" tvg-language="Turkish" tvg-country="TR" tvg-id="BUZ_YOLU_INTIKAM" tvg-logo="https://dizifun5.com/images/data/2025_ice-road-vengeance.webp" group-title="Filmler",Buz Yolu: İntikam
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zwzwafg2gnw4fzlocyd5/master.m3u8
 #EXTINF:-1 tvg-name="Looney Tunes: Dünyayı Kurtarma Operasyonu" tvg-language="Turkish" tvg-country="TR" tvg-id="LOONEY_TUNES_DUNYAYI_KURTARMA_OPERASYONU" tvg-logo="https://dizifun5.com/images/data/2024_looney-tunes-dunyayi-kurtarma-operasyonu.webp" group-title="Filmler",Looney Tunes: Dünyayı Kurtarma Operasyonu
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/q2ddvz6q77tsb1ulohsf/master.m3u8
 #EXTINF:-1 tvg-name="Felaketler Dizisi: 17.000 Davetsiz Misafir" tvg-language="Turkish" tvg-country="TR" tvg-id="FELAKETLER_DIZISI_17000_DAVETSIZ_MISAFIR" tvg-logo="https://dizifun5.com/images/data/2025_felaketler-dizisi-17000-davetsiz-misafir.webp" group-title="Filmler",Felaketler Dizisi: 17.000 Davetsiz Misafir
@@ -1244,7 +1330,7 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 #EXTINF:-1 tvg-name="Sahir Deep Web" tvg-language="Turkish" tvg-country="TR" tvg-id="SAHIR_DEEP_WEB" tvg-logo="https://dizifun5.com/images/data/2019_sahir-deep-web.webp" group-title="Filmler",Sahir Deep Web
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/7g9kfmhhv99lwojca6jd/master.m3u8
 #EXTINF:-1 tvg-name="Bizim İçin Şampiyon" tvg-language="Turkish" tvg-country="TR" tvg-id="BIZIM_ICIN_SAMPIYON" tvg-logo="https://dizifun5.com/images/data/2018_bizim-icin-sampiyon.webp" group-title="Filmler",Bizim İçin Şampiyon
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/34tz99v4q4emjgx6ls3y/master.m3u8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/ry335p3uq2fml5emmv7q/master.m3u8
 #EXTINF:-1 tvg-name="Miras Kime Kalacak?" tvg-language="Turkish" tvg-country="TR" tvg-id="MIRAS_KIME_KALACAK" tvg-logo="https://dizifun5.com/images/data/2024_miras-kime-kalacak.webp" group-title="Filmler",Miras Kime Kalacak?
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/w8bbcnrud6i5d8n948di/master.m3u8
 #EXTINF:-1 tvg-name="Çözümler Kitabı" tvg-language="Turkish" tvg-country="TR" tvg-id="COZUMLER_KITABI" tvg-logo="https://dizifun5.com/images/data/2023_cozumler-kitabi.webp" group-title="Filmler",Çözümler Kitabı
@@ -4940,7 +5026,7 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 #EXTINF:-1 tvg-name="Demir Pençe" tvg-language="Turkish" tvg-country="TR" tvg-id="DEMIR_PENCE" tvg-logo="https://dizifun5.com/images/data/demir-pence.webp" group-title="Filmler",Demir Pençe
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/tbbo5ubutqukh47gocus/master.m3u8
 #EXTINF:-1 tvg-name="Arıcı: Ölüm Kovanı" tvg-language="Turkish" tvg-country="TR" tvg-id="ARICI_OLUM_KOVANI" tvg-logo="https://dizifun5.com/images/data/arici-olum-kovani.webp" group-title="Filmler",Arıcı: Ölüm Kovanı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/7gpvg3k1ncsfn9hb6pv3/master.m3u8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d3.premiumvideo.click/uploads/encode/pwxlnucdy4okzj4ojq9k/master.m3u8
 #EXTINF:-1 tvg-name="Furiosa: Bir Mad Max Destanı" tvg-language="Turkish" tvg-country="TR" tvg-id="FURIOSA_BIR_MAD_MAX_DESTANI" tvg-logo="https://dizifun5.com/images/data/furiosa-bir-mad-max-destani.webp" group-title="Filmler",Furiosa: Bir Mad Max Destanı
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/vfg72a54xs7njz3tyjnx/master.m3u8
 #EXTINF:-1 tvg-name="Maymunlar Cehennemi: Yeni Krallık" tvg-language="Turkish" tvg-country="TR" tvg-id="MAYMUNLAR_CEHENNEMI_YENI_KRALLIK" tvg-logo="https://dizifun5.com/images/data/maymunlar-cehennemi-yeni-krallik.webp" group-title="Filmler",Maymunlar Cehennemi: Yeni Krallık
